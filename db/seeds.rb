@@ -12,5 +12,3 @@ clickbait.posts.create!(title: "The Power of Positive Thinking and 100 Gallons o
 
 movies = Category.create!(name: "Movies")
 movies.posts.create!(title: "Top 20 Summer Blockbusters Featuring a Cute Dog")
-
-
